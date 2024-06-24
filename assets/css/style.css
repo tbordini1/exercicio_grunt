@@ -1,0 +1,15 @@
+/* Uma cor suave e agradável para o fundo */
+body {
+  background-color: #7796af;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+#header {
+  color: #187144;
+  font-size: 2em;
+  text-align: center;
+}
